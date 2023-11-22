@@ -286,7 +286,7 @@ Soit la chaine de caractères suivantes, calculez le nombre de i, puis le nombre
 m = "Mississippi"
 ```
 
-Remplacez l'une des lettre qui apparait avec la grande plus fréquence par la lettre e dans le m
+1. Remplacez l'une des lettre qui apparait avec la grande plus fréquence par la lettre e dans le m
 
 
 ### 01 Exercice maximun d'une liste avec indice
