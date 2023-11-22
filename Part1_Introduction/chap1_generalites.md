@@ -167,7 +167,7 @@ for x in range(10):
 	print(x)
 ```
 
-## 002 Exercice table multiplication
+## 003 Exercice table multiplication
 
 Créez une fonction qui affiche une table de multiplication dans une liste.
 
@@ -265,6 +265,12 @@ l.sort(reverse=True)
 # Supprime tous les éléments d'une liste
 l.clear()
 ```
+
+## 004 Exercice slicing 
+
+Créez des binômes à partir d'une liste de nombres de longueur quelconque, attention si la liste est impair dans ce le dernier binôme sera un trinôme.
+
+Vous placerez les résultats dans une liste de listes sous liste de binômes.
 
 ## 004 Exercice max
 
