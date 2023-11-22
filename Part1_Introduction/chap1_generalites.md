@@ -272,13 +272,13 @@ Créez des binômes à partir d'une liste de nombres de longueur quelconque, att
 
 Vous placerez les résultats dans une liste de listes sous liste de binômes.
 
-## 004 Exercice max
+## 005 Exercice max
 
 Créez une fonction qui calcul le max de 2 valeurs, puis trois valeurs. Et facultatif N valeurs. 
 
 Indication : vous n'avez pas le droit d'utiliser de fonction native
 
-## 005 Comptez les lettres
+## 006 Comptez les lettres
 
 Soit la chaine de caractères suivantes, calculez le nombre de i, puis le nombre de chaque lettre.
 

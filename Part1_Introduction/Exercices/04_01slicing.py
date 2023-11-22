@@ -17,3 +17,12 @@ print(m[::-1])
 
 # Inverser la lise avec du slicing 
 print(m[::-2])
+
+
+## 
+
+from random import shuffle
+
+m = [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]
+shuffle(m)
+print(m)
