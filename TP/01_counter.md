@@ -2,6 +2,8 @@
 
 Ce TP sera évaluer lors du prochain cours. Créez des équipes de 5 personnes.
 
+Créez un fichier dans lequel vous écrirez votre nom/prénom et classe.
+
 Soit la chaine de caractères suivantes m ci-après, calculez le nombre de i, puis le nombre de chaque lettre.
 
 Faites une fonction pour répondre à cette question.
