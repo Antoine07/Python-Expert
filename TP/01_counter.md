@@ -44,6 +44,14 @@ Henri Michaux
 
 Pensez à faire un script pour compter tous les pronons du texte.
 
+Si le module json n'est déjà installé dans les modules Python tapez la ligne de commande suivante dans votre terminale
+
+```bash
+pip install json
+```
+
+Code pour enregistrer des données dans un fichier ( existant ou pas ).
+
 ```python
 import json
 
