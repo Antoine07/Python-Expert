@@ -38,7 +38,11 @@ lui doive être plus haïssable encore.
 Henri Michaux
 ```
 
-4. A l'aide du code suivant enregistrer dans un fichier dans un fichier json les statistiques précédentes : nombre pronon et nombre de e
+4. A l'aide du code Python suivant enregistrez dans un fichier json les statistiques suivantes :
+ - nombre pronon
+ - nombre de e
+
+Pensez à faire un script pour compter tous les pronons du texte.
 
 ```python
 import json
