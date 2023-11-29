@@ -57,3 +57,4 @@ path = "chemin/vers/ton/fichier.json"
 with open(path, 'w') as file:
     json.dump(data, file)
 ```
+5. (facultatif mais point en plus ) Quel est le mot le plus utilisé dans le texte en dehors des particules.
