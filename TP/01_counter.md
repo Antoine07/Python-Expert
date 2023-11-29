@@ -16,7 +16,7 @@ m = "Mississippi"
 
 2. Calculez la fréquence d'apparition de chaque lettre dans le mot m.
 
-3. Dans le texte suivant compter le nombre de fois que vous avez la prenom le, puis le nombre de e. Effacez tous les e.
+3. Dans le texte suivant compter le nombre de fois que vous avez la prenom le, puis le nombre de e, et à l'aide d'un script effacez tous les e.
 
 
 ```txt
@@ -57,4 +57,5 @@ path = "chemin/vers/ton/fichier.json"
 with open(path, 'w') as file:
     json.dump(data, file)
 ```
-5. (facultatif mais point en plus ) Quel est le mot le plus utilisé dans le texte en dehors des particules.
+5. (facultatif ) Quel est le mot le plus utilisé dans le texte.
+6. (facultatif ) Quel est le mot le plus utilisé dans le texte en dehors des pronons.
