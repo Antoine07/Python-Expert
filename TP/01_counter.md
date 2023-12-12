@@ -1,4 +1,6 @@
-# TP 01
+# TP
+
+## Partie 1
 
 Ce TP sera évaluer lors du prochain cours. Créez des équipes de 5 personnes.
 
@@ -67,3 +69,14 @@ with open(path, 'w') as file:
 ```
 5. (facultatif ) Quel est le mot le plus utilisé dans le texte.
 6. (facultatif ) Quel est le mot le plus utilisé dans le texte en dehors des pronons.
+
+## Partie 2
+
+Soit la liste suivante 
+
+```python
+elems = ['a', 'b', 'c', 'a', 'b', 'a', 'd', 'e']
+```
+
+Créez des couples de deux valeurs.
+
